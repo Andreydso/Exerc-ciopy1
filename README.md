@@ -1,2 +1,2 @@
 # Exerc-ciopy1
-Exercício de python 1
+Exercícios do 1 ao 17 de python do curso de Análise e Desenvolvimento de Sistemas
